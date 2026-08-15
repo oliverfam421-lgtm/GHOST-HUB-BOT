@@ -1,1 +1,12 @@
-
+{
+  "name": "ghost-bot-maker",
+  "version": "1.0.0",
+  "description": "GHOST BOT MAKER",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
